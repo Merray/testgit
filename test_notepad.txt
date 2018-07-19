@@ -1,5 +1,18 @@
 la joie de visual c++
+<<<<<<< HEAD
 
 mais c'est quoi la bonne version?
 
 les problèmes d'installation c'est la vie...
+=======
+Jimmy
+
+Jimmy
+
+Jimmy
+
+Jimmy
+
+Jimmy
+
+>>>>>>> fe53c9db75ca407d631df796b483d84137327cf2
