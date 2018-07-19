@@ -1,1 +1,5 @@
 la joie de visual c++
+
+mais c'est quoi la bonne version?
+
+les problèmes d'installation c'est la vie...
